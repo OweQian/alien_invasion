@@ -25,7 +25,7 @@ class AlienInvasion:
         if event.type == pygame.QUIT:
           sys.exit()
       # 填充背景颜色
-      self.screen.fill(self.bg_color)    
+      self.screen.fill(self.settings.bg_color)    
       # 刷新屏幕内容    
       pygame.display.flip()
       # 设置帧率
