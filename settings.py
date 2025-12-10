@@ -8,5 +8,3 @@ class Settings:
     self.screen_height = screen_height
     self.caption = caption
     self.bg_color = bg_color
-    
-    
