@@ -8,3 +8,5 @@ class Settings:
     self.screen_height = screen_height
     self.caption = caption
     self.bg_color = bg_color
+    # 飞船速度
+    self.ship_speed = 1.5
